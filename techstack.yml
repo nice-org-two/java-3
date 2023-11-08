@@ -1,7 +1,7 @@
 repo_name: nice-org-two/java-3
-report_id: 0b9829696583b2ac95f0565c9bd28de8
+report_id: 340c96aba7d4d65d9b54784175c55054
 repo_type: Public
-timestamp: '2023-11-07T12:49:19+00:00'
+timestamp: '2023-11-08T07:32:50+00:00'
 requested_by: pilwon
 provider: github
 branch: master
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/995/K85ZWV2F.png
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
   detection_source: oracle-java8/Dockerfile
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -25,7 +25,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
-  imageURL: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,5 +34,5 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
