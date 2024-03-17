@@ -1,7 +1,8 @@
 repo_name: nice-org-two/java-3
-report_id: a6af984d00aa49ae6b3d4dc157914655
+report_id: 4b284dc846cefbc5ab409be3872293c3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T18:04:00+00:00'
+timestamp: '2024-03-17T09:02:31+00:00'
 requested_by: pilwon
 provider: github
 branch: master
@@ -16,7 +17,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source: oracle-java8/Dockerfile
+  detection_source_url: https://github.com/nice-org-two/java-3/blob/master/Dockerfile
+  detection_source: Dockerfile
   last_updated_by: Pilwon Huh
   last_updated_on: 2014-08-29 12:16:03.000000000 Z
 - name: Docker
@@ -28,6 +30,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/nice-org-two/java-3
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -37,4 +40,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nice-org-two/java-3
   detection_source: Repo Metadata
